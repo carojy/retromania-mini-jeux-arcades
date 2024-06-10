@@ -1,4 +1,4 @@
-package pfc;
+package pierreFeuilleCiseaux;
 
 import java.util.Random;
 import java.util.Scanner;
